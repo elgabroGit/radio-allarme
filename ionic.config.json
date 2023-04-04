@@ -1,0 +1,7 @@
+{
+  "name": "radio-allarme",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
